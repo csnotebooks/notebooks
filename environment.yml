@@ -1,0 +1,8 @@
+#name: notebooks
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyter-book=0.11.2
+  - ghp-import
